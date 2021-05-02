@@ -1,0 +1,157 @@
+---
+title: "SuHninPwint"
+author: Su Hnin pwint
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Credits to Eric R.Scott
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>spwint01@tufts.edu
+- <i class="fa fa-github"></i> [github.com/suhninpwint/data_analytics_resume.git](https://github.com/suhninpwint/data_analytics_resume.git)
+- <i class="fa fa-phone"></i> +1 774-503-3353
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Assist with **building and maintaining** product features and services.
+
+- Build, deploy and upgrade our real time compute infrastructure.
+
+- Design and implement features to improve our systems.
+
+- Connect with customers to understand their goals and needs and translate those into solutions our team can deliver.
+
+- Configure tooling for systems scalability, ensure we have capacity for future growth.
+
+- Ensure our systems are continuously monitored and running efficiently with a consistent, unified experience across products, platforms, and devices.
+
+- Test current algorithms and write testing documents.
+
+- Collaborate with internal stakeholders across the business to drive the delivery of features, processes and happiness.
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Su Hnin Pwint {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Summer 2021 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Innovation and Management
+
+Medford, MA
+
+2021--Current
+
+
+### Tufts University
+
+MS Candidate in Human Factors Engineering
+
+Medford, MA
+
+2021--Current
+
+
+### Drexel University
+
+B.S. in Interactive Digital Media
+
+Philadelphia, PA
+
+2015--2019
+
+
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Product Design Intern
+
+Helpsy Health
+
+Sunnyvale, CA
+
+2020--2021
+
+- Collaborated with the engineering teams and health informatic teams to design assets and interactions that communicate Helpsy Health to the world.
+- Developed user interfaces from low fidelity wireframes to pixel-perfect
+interactive mock-ups across mobile apps to websites. 
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Overcoming Multiple Sclerosis - Senior Thesis
+
+Drexel University	
+
+Philadelphia, PA
+
+2018--2019
+
+<!--::: concise-->
+- Designed protocols recruited participants and facilitated user sessions for 6 phases of remote research (US, UK, AU) with 40+ participants.
+- Fostered fluid communication between the research and design team to help implement the changes of the OMS’s 7 step recovery program.
+- Clearly articulated research findings and design recommendations by telling a compelling story for the design, development team and stakeholders.
+<!--:::-->
+
+
+
+### Zinqe - Sprint Project
+
+Tufts University
+
+Medford, MA
+
+2021 
+
+- Talked to more than 90 customers to validate our problem statment and market size
+- Developed a landing page to gauge customer interest to test our pilot study 
+
+
+
+Leadership Exeprience {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### Drexel Chapter Founding Designer 
+- Established student chapter on campus that influenced diversity and inclusion in the user experience field.
+
+Philadelphia, PA
+
+2019
+
+
+
